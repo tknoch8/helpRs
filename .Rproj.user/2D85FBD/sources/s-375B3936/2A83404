@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581462198030.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2A83404",
+    "lastKnownWriteTime" : 1581462213,
+    "last_content_update" : 1581462213313,
+    "path" : "~/Documents/R/helpRs/R/cron_helpers.R",
+    "project_path" : "R/cron_helpers.R",
+    "properties" : {
+        "cursorPosition" : "30,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
