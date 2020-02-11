@@ -67,7 +67,7 @@ make_time_stamp <- function() {
 
 
 #' @title replace empty ("") values with "NA"
-#' @description "NA" will be easier to see and deal with compared to empty
+#' @description "NA" are often easier to see and deal with compared to empty
 #'   values. Further testing is needed for this function
 #' @usage df %>% empty_as_na()
 #'
