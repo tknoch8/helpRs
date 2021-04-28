@@ -69,12 +69,12 @@ make_time_stamp <- function() {
 #' @title replace empty ("") values with "NA"
 #' @description "NA" are often easier to see and deal with compared to empty
 #'   values. Further testing is needed for this function
+#' @param df the dataframe or tibble to be modified
 #' @usage df %>% empty_as_na()
 #'
 #'   # or
 #'
 #'   empty_as_na(df)
-#' @param df the dataframe or tibble to be modified
 #' @return df with empty values replaced with "NA"
 #' @importFrom dplyr mutate_all if_else
 #' @examples

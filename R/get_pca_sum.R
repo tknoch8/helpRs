@@ -21,6 +21,7 @@
 #' pca_prep <- prep(pca_rec)
 #' get_pca_summary(pca_prep)
 #' }
+#' @importFrom purrr pluck
 #' @export
 get_pca_summary <- function(prepped_pca_rec) {
   prepped_pca_rec %>%
